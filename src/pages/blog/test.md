@@ -1,6 +1,6 @@
 ---
 title: Questo è un post di test
-subtitle: lorem-ipsum
+subtitle: Io sono il sottotitolo
 date: '2020-12-29'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
