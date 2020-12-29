@@ -6,6 +6,7 @@ thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
 image: images/10.jpg
+thumb_image: images/10.jpg
 ---
 ## Sono il signore dei post
 
