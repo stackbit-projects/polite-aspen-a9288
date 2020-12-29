@@ -5,6 +5,7 @@ date: '2020-12-29'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
+image: images/10.jpg
 ---
 ## Sono il signore dei post
 
