@@ -6,7 +6,7 @@ thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
 ---
-## Lorem ipsum
+## Sono il signore dei post
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
